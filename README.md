@@ -1,4 +1,5 @@
 # CP1_Edge_Computing
+-> Integrantes: Caio Soares Rossini(555084),Kayky Stiliano(555148),Thomaz Neves(557789) e Pedro Sampaio(555613)
 Este projeto consiste em um sistema de verificação de intensidade luminosa para vinícolas, com a capacidade de alertar em três fases (verde, amarela e vermelha) para indicar o nível de luminosidade e uma buzina para alarmar quando estiver no nível vermelho. O objetivo é manter a luminosidade ideal para o armazenamento de vinhos.
 
 -> Funcionamento:
