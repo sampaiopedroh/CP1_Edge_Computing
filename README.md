@@ -21,3 +21,6 @@ ledG: Pino 4, conectado ao LED verde.
 ledB: Pino 3, conectado ao LED amarelo.
 som: Pino 9, conectado à buzina.
 A função setup() é responsável por inicializar os pinos como saídas e configurar a porta serial para a comunicação.
+
+-> Considerações Finais:
+Este sistema pode ser adaptado para outras aplicações que requerem a verificação de luminosidade e alertas sonoros. É importante considerar a calibração do sistema e ajustar os limites de luminosidade de acordo com as necessidades específicas do ambiente.
