@@ -6,17 +6,17 @@
 int vldr = 0;
 
 void setup(){
-  pinMode(ldr, OUTPUT);
+  	pinMode(ldr, OUTPUT);
 	pinMode(ledR, OUTPUT);
 	pinMode(ledG, OUTPUT);
-  pinMode(ledB, OUTPUT);
-  pinMode(som, OUTPUT);
-  Serial.begin(9600);
+ 	pinMode(ledB, OUTPUT);
+  	pinMode(som, OUTPUT);
+  	Serial.begin(9600);
 }
 
 void vermelho(){
 	digitalWrite(ledR, HIGH);
-  digitalWrite(ledG, LOW);
+  	digitalWrite(ledG, LOW);
 	digitalWrite(ledB, LOW);
 }
 
